@@ -1,7 +1,6 @@
 # Homelabing - My home server story
 
-![Banner Image]([LINK TO A PHOTO OF YOUR FINISHED BUILD])
-*> (Optional: A photo of your server on your desk)*
+![Banner Image](./images/IMG_9225.jpeg)
 
 ##  About This Project
 
@@ -71,6 +70,7 @@ I designed the following parts to enclose the build and protect it from dust.
 ---
 
 ## 🏗️ The Build Process & Challenges
+![Banner Image](./images/IMG_9072(1).jpeg)
 
 As this was my first build, things didn't go perfectly according to plan.
 
@@ -125,6 +125,8 @@ The server is currently running  Ubuntu Server 24.04.
 
   I am also using the server as a NAS. CasaOS provides support for NAS natively so I did not have to do much to set this up. The server already contains many of the notes I used in different lessons on my university, and now I can access my study material from any device in my local network, even my phone! This was a real help during exam season.
 
+
+![Banner Image](./images/IMG_9229.jpeg)
 ---
 
 ## 🔮 Future Upgrades
